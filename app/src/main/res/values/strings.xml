@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PersonalCenter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_share">Share</string>
+    <string name="click_edit">点击编辑</string>
+</resources>
