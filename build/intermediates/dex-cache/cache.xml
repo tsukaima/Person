@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\tsukaima\.gradle\caches\modules-2\files-2.1\com.joanzapata.android\android-iconify\1.0.9\27817b0ae26d4fa788711f1f75aaa45d76901722\android-iconify-1.0.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="27817b0ae26d4fa788711f1f75aaa45d76901722">
+        <dex dex="C:\Users\tsukaima\AndroidStudioProjects\Person\app\build\intermediates\pre-dexed\debug\android-iconify-1.0.9-671d61bb404c42481aa3bb512a919a8326467ff1.jar" />
+    </item>
+    <item
+        jar="C:\Users\tsukaima\AndroidStudioProjects\Person\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\tsukaima\AndroidStudioProjects\Person\app\build\intermediates\pre-dexed\debug\classes-4cab642aaafa736d47bce8bd72c74a216adaea56.jar" />
+    </item>
+    <item
+        jar="C:\Users\tsukaima\AndroidStudioProjects\Person\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\tsukaima\AndroidStudioProjects\Person\app\build\intermediates\pre-dexed\debug\classes-bd2ed79e360a3161c6ee6e7069808e2a6cce14f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\tsukaima\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\tsukaima\AndroidStudioProjects\Person\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-aa3ec283cdf02353d1e69035f4a65fc81f13ab19.jar" />
+    </item>
+    <item
+        jar="C:\Users\tsukaima\AndroidStudioProjects\Person\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\tsukaima\AndroidStudioProjects\Person\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-b9e0a3220b79d21426266e25e6192fbf16913d52.jar" />
+    </item>
+
+</items>
